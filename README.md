@@ -41,9 +41,8 @@ I have experience developing **industrial performance management applications, s
 - **Game development projects**  
 
 ## 📫 How to Reach Me  
-- 📧 Email: kei.frejuste@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/kei-prince-frejuste](#)  
-- 🐦 Twitter: [twitter.com/Frejuste26](#)  
+- 📧 Email: keifrejuste26@gmail.com  
+- 💼 LinkedIn: [https://www.linkedin.com/in/princekei/](#)   
 
 ## ⚡ Fun Fact  
 I love **building interactive CVs, animating web pages, and exploring new UI/UX trends**! 😄  
