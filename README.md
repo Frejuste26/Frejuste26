@@ -49,4 +49,4 @@ I have experience developing **industrial performance management applications, s
 - 💼 LinkedIn: [https://www.linkedin.com/in/princekei/](#)   
 
 ## ⚡ Fun Fact  
-I love **building interactive CVs, animating web pages, and exploring new UI/UX trends**! 😄  
+I love **animating web pages, acquire new skills, and exploring new UI/UX trends**! 😄  
