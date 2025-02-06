@@ -11,7 +11,8 @@ I have experience developing **industrial performance management applications, s
 - **UI/UX design** (Custom Tailwind components, DaisyUI, animations)  
 - **Game development** (Hidden word games, checkers, interactive portfolios)  
 - **API integrations** (Mobile Payment APIs: **MTN Mobile Money, Orange Money, Wave**)  
-- **Performance optimization & data analysis** (Tracking KPIs, monitoring industrial production, managing resources)  
+- **Performance optimization & data analysis** (Tracking KPIs, monitoring industrial production, managing resources)
+- **Data Science**
 
 ## 🌱 Currently Learning  
 - Advanced **Vue.js & React** for scalable applications  
