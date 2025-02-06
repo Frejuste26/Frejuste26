@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Kei Prince Frejuste (@Frejuste26)  
 
 ## 🚀 About Me  
-I'm a passionate **full-stack developer** who enjoys building **web applications, dashboards, and interactive experiences**. I specialize in **Node.js, Vue.js, Express, MySQL, MongoDB**, and love working with **modern UI frameworks like Tailwind CSS, DaisyUI, and FlyonUI**.  
+I'm a passionate **full-stack developer** who enjoys building **web applications, Backend API, and interactive experiences**. I specialize in **Node.js, Express, MySQL, MongoDB**, and love working with **modern UI frameworks like Tailwind CSS**.  
+I also know PHP, Vue.Js, React.js and Python. I even have a Python Developer certification from W3school.
 
 I have experience developing **industrial performance management applications, school cafeteria systems, and e-commerce platforms**, always aiming for efficiency and great user experience.  
 
