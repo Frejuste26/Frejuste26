@@ -17,7 +17,9 @@ I have experience developing **industrial performance management applications, s
 - Advanced **Vue.js & React** for scalable applications  
 - Backend optimizations with **Node.js & Express**  
 - Database performance improvements with **MySQL & MongoDB**  
-- Webpack & PostCSS for optimized frontend builds  
+- Webpack & PostCSS for optimized frontend builds
+- Advanced PHP for high-performance API development
+- Python Intermediate For high-performance desktop application development
 
 ## 💻 Notable Projects  
 ### 🎯 Industrial Performance Management System (TRS Tracking)  
