@@ -6,7 +6,7 @@
 
 ## 🚀 À propos de moi
 
-Je suis un développeur full-stack aguerri, passionné par la conception et la réalisation d'applications web innovantes, de backends fiables et d'interfaces utilisateur fluides. Mon approche est centrée sur l'efficacité, l'élégance technique et la valeur métier, garantissant des solutions qui non seulement fonctionnent, mais qui excellent.
+Je suis un développeur full-stack, passionné par la conception et la réalisation d'applications web innovantes, de backends fiables et d'interfaces utilisateur fluides. Mon approche est centrée sur l'efficacité, l'élégance technique et la valeur métier, garantissant des solutions qui non seulement fonctionnent, mais qui excellent.
 
 💡 Mes expertises techniques couvrent :  
 Node.js, Express, PHP, MySQL, MongoDB, PostgreSQL, Python, Vue.js, React, Tailwind CSS, Webpack, Django, Flask...  
