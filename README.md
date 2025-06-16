@@ -1,4 +1,4 @@
-# Salut le monde, je suis Kei Prince Frejuste (@Frejuste26)
+# 👋Salut le monde, je suis Kei Prince Frejuste (@Frejuste26)
 
 > Architecte Full-Stack & Innovateur : Je transforme des concepts ambitieux en applications web performantes, robustes et élégantes. Ma passion ? Bâtir des systèmes intelligents qui résolvent des défis concrets et créent des expériences utilisateur exceptionnelles.
 
