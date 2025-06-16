@@ -1,52 +1,102 @@
-# 👋 Hi, I'm Kei Prince Frejuste (@Frejuste26)  
+# 👋 Hello, I’m Kei Prince Frejuste — @Frejuste26
 
-## 🚀 About Me  
-I'm a passionate **Web developer** who enjoys building **web applications, Backend API, and interactive experiences**. I specialize in **Node.js, Express, MySQL, MongoDB**, and love working with **modern UI frameworks like Tailwind CSS**.  
-I also know PHP, Vue.Js, React.js and Python. I even have a Python Developer certification from W3school.
+## 🚀 About Me
 
-I have experience developing **industrial performance management applications, school cafeteria systems, and e-commerce platforms**, always aiming for efficiency and great user experience.  
+I’m a **passionate Web Developer** with a soul wired for creation. Whether it’s a robust **Backend API**, an immersive **frontend interface**, or an elegant **full-stack system**, I thrive where logic meets artistry.
 
-## 👀 Interests  
-- **Web & mobile development** (Admin dashboards, e-commerce, industrial management tools)  
-- **UI/UX design** (Custom Tailwind components, DaisyUI, animations)  
-- **Game development** (Hidden word games, checkers, interactive portfolios)  
-- **API integrations** (Mobile Payment APIs: **MTN Mobile Money, Orange Money, Wave**)  
-- **Performance optimization & data analysis** (Tracking KPIs, monitoring industrial production, managing resources)
-- **Data Science**
+💻 My main tech stack:
+- **Node.js**, **Express**, **MySQL**, **MongoDB**
+- **Tailwind CSS**, **DaisyUI**, **Vue.js**, **React**
+- Plus a solid foundation in **PHP** and **Python** (certified by W3Schools)
 
-## 🌱 Currently Learning  
-- Advanced **Vue.js & React** for scalable applications  
-- Backend optimizations with **Node.js & Express**  
-- Database performance improvements with **MySQL & MongoDB**  
-- Webpack & PostCSS for optimized frontend builds
-- Advanced PHP for high-performance API development
-- Python Intermediate For high-performance desktop application development
+I’ve built solutions ranging from **industrial performance dashboards** to **canteen management systems** and **e-commerce platforms** — always striving for performance, clarity, and seamless user experiences.
 
-## 💻 Notable Projects  
-### 🎯 Industrial Performance Management System (TRS Tracking)  
-- Built a platform to **monitor industrial performance, analyze production gaps, and track KPI metrics**.  
-- Integrated **MySQL** for structured data storage and **Node.js/Express** for backend processing.  
+---
 
-### 🍽️ School Cafeteria Management System  
-- Developed a **canteen ordering system** where students can place orders and pay via **MTN Mobile Money, Orange Money, and Wave**.  
-- Used **Vue.js & Tailwind CSS** for the frontend and **Node.js & MongoDB** for the backend.  
+## 🧰 Tech Toolbox
 
-### 🛒 E-commerce Platform  
-- Created a **scalable online store** with a **React frontend**, **Tailwind CSS**, and **Node.js backend**.  
-- Implemented **authentication, cart management, and order tracking**.  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-7E22CE?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![EJS](https://img.shields.io/badge/EJS-3178C6?style=for-the-badge&logo=ejs&logoColor=white)
+![Marko](https://img.shields.io/badge/Marko-0E83CD?style=for-the-badge&logo=marko&logoColor=white)
 
-### 🎮 Game Development  
-- Built **interactive word games** and a **checkers game** using **HTML, CSS & JavaScript**.  
-- Experimenting with **AI-driven gameplay mechanics**.  
+---
 
-## 💞️ Looking to Collaborate On  
-- **Full-stack web applications**  
-- **Open-source UI components & design systems**  
-- **Game development projects**  
+## 👀 What Inspires Me
 
-## 📫 How to Reach Me  
-- 📧 Email: keifrejuste26@gmail.com  
-- 💼 LinkedIn: [https://www.linkedin.com/in/princekei/](#)   
+- **🌐 Web & Mobile Apps** — Admin dashboards, industrial systems, e-commerce tools
+- **🎨 UI/UX Design** — Tailwind components, fluid animations, custom design systems
+- **🎮 Game Development** — Hidden word games, checkers, interactive storytelling
+- **🔗 API Integration** — Mobile payment APIs: MTN MoMo, Orange Money, Wave
+- **📊 Data & Optimization** — Performance monitoring, KPI tracking, resource analysis
+- **📚 Data Science** — Because code should also be able to think.
 
-## ⚡ Fun Fact  
-I love **animating web pages, acquire new skills, and exploring new UI/UX trends**! 😄  
+---
+
+## 🌱 Currently Sharpening My Skills
+
+- Advanced **Vue.js** & **React.js** for modern scalable UIs
+- Deepening **Node.js/Express** backend performance
+- Boosting database efficiency with **MySQL & MongoDB**
+- Mastering **Webpack**, **PostCSS**, and frontend build pipelines
+- Leveling up in **Advanced PHP** & **Python** for desktop applications
+
+---
+
+## 💼 Notable Projects
+
+### 🎯 Industrial Performance Management (TRS Tracking)
+> Designed a system to **monitor production efficiency**, **analyze variances**, and **track KPI metrics**.
+- Stack: Node.js, Express, MySQL
+- Features: Real-time data capture, performance dashboards, resource tracking
+
+### 🍽️ Smart School Cafeteria System
+> Built a complete **canteen ordering platform** for students with **mobile payment integration**.
+- Stack: Vue.js, Tailwind CSS, Node.js, MongoDB
+- Payments: MTN MoMo, Orange Money, Wave
+
+### 🛒 Scalable E-commerce Platform
+> Developed a dynamic online store with **user auth, cart system, order history**, and more.
+- Stack: React.js, Tailwind CSS, Node.js
+
+### 🎮 Game Prototypes
+> Created playful projects like **word puzzles** and a **checkers game** using pure JavaScript.
+- Working on: AI-enhanced gameplay mechanics, interactive storyboards
+
+---
+
+## 🤝 I’m Open To Collaborate On
+
+- Innovative **full-stack web applications**
+- **Open-source UI libraries & design systems**
+- **Creative coding or game dev experiments**
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: **keifrejuste26@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/princekei](https://www.linkedin.com/in/princekei)
+
+---
+
+## ⚡ Fun Fact
+
+> I don’t just code — I compose experiences.  
+From pixel-perfect UIs to backend orchestration, I bring visions to life, one commit at a time.  
+Oh, and I love animating things — because static is boring. 😉
+
+---
