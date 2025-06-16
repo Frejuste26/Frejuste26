@@ -81,7 +81,7 @@ Chacun de ces projets illustre ma capacité à concevoir, développer et déploy
 ## 🚀 [Gestionnaire de Tâches Avancé](#)
 > Une application complète de gestion de tâches avec des fonctionnalités avancées. J'ai développé le backend avec Node.js et Express.js, utilisé MongoDB pour la base de données flexible, et créé une interface utilisateur intuitive et réactive avec React.js. Ce projet intègre la création, l'édition, la suppression et l'organisation de tâches, ainsi qu'un système d'authentification utilisateur robuste, mettant en valeur ma maîtrise du cycle de vie complet d'une application web dynamique.
 
-📈 [Blog Personnel avec CMS](#)
+## 📈 [Blog Personnel avec CMS](#)
 > Une plateforme de blog personnelle entièrement fonctionnelle avec un système de gestion de contenu (CMS) intégré. J'ai utilisé PHP pour le backend, MySQL pour stocker les articles et gérer les utilisateurs, et Vue.js pour enrichir l'interactivité de l'interface d'administration. Ce projet démontre ma polyvalence avec différentes piles technologiques et ma capacité à construire des systèmes de gestion de contenu robustes et flexibles.
 
 ---
