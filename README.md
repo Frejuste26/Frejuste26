@@ -1,32 +1,40 @@
-# 👋 Hello, I’m Kei Prince Frejuste — @Frejuste26
+# 👋 Hello World, I'm Kei Prince Frejuste (@Frejuste26)
 
-## 🚀 About Me
+> Développeur Web passionné, bâtisseur de systèmes vivants, artisan du code utile et du pixel soigné.
 
-I’m a **passionate Web Developer** with a soul wired for creation. Whether it’s a robust **Backend API**, an immersive **frontend interface**, or an elegant **full-stack system**, I thrive where logic meets artistry.
+---
 
-## 💻 My main tech stack:
+## 🚀 À propos de moi
+
+Je suis un développeur **full-stack** passionné par la création d’**applications web, backends robustes et expériences interactives**.
+
+💡 Je maîtrise :  
+**Node.js, Express, PHP, MySQL, MongoDB, PostgreSQL, Python, Vue.js, React, Tailwind CSS, Webpack, Django, Flask...**  
+Et j’adore animer, optimiser, connecter, personnaliser.
+
+🎓 Certifié Python Developer par **W3Schools**  
+🛠️ En quête permanente d'**efficacité**, d'**élégance technique** et de **valeur métier**.
+
+---
+
+## 🧰 Tech Toolbox
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-7E22CE?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
 ![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![EJS](https://img.shields.io/badge/EJS-3178C6?style=for-the-badge&logo=ejs&logoColor=white)
@@ -34,68 +42,68 @@ I’m a **passionate Web Developer** with a soul wired for creation. Whether it�
 
 ---
 
-## 👀 What Inspires Me
+## 👀 Centres d’intérêt
 
-- **🌐 Web & Mobile Apps** — Admin dashboards, industrial systems, e-commerce tools
-- **🎨 UI/UX Design** — Tailwind components, fluid animations, custom design systems
-- **🎮 Game Development** — Hidden word games, checkers, interactive storytelling
-- **🔗 API Integration** — Mobile payment APIs: MTN MoMo, Orange Money, Wave
-- **📊 Data & Optimization** — Performance monitoring, KPI tracking, resource analysis
-- **📚 Data Science** — Because code should also be able to think.
-
----
-
-## 🌱 Currently Sharpening My Skills
-
-- Advanced **Vue.js** & **React.js** for modern scalable UIs
-- Deepening **Node.js/Express** backend performance
-- Boosting database efficiency with **MySQL & MongoDB**
-- Mastering **Webpack**, **PostCSS**, and frontend build pipelines
-- Leveling up in **Advanced PHP** & **Python** for desktop applications
+- **Développement Web & Mobile** : Dashboards, e-commerce, outils industriels
+- **UI/UX Design** : Tailwind, animations, design systems
+- **Jeux & Interaction** : mots cachés, dames, expériences dynamiques
+- **APIs & Intégrations** : Paiements mobiles (MTN, Orange, Wave)
+- **Data & Optimisation** : KPI, monitoring industriel, Data Science
 
 ---
 
-## 💼 Notable Projects
+## 🌱 Actuellement en apprentissage
 
-### 🎯 Industrial Performance Management (TRS Tracking)
-> Designed a system to **monitor production efficiency**, **analyze variances**, and **track KPI metrics**.
-- Stack: Node.js, Express, MySQL
-- Features: Real-time data capture, performance dashboards, resource tracking
-
-### 🍽️ Smart School Cafeteria System
-> Built a complete **canteen ordering platform** for students with **mobile payment integration**.
-- Stack: Vue.js, Tailwind CSS, Node.js, MongoDB
-- Payments: MTN MoMo, Orange Money, Wave
-
-### 🛒 Scalable E-commerce Platform
-> Developed a dynamic online store with **user auth, cart system, order history**, and more.
-- Stack: React.js, Tailwind CSS, Node.js
-
-### 🎮 Game Prototypes
-> Created playful projects like **word puzzles** and a **checkers game** using pure JavaScript.
-- Working on: AI-enhanced gameplay mechanics, interactive storyboards
+- **Frontend avancé** : Vue.js, React.js, composants dynamiques
+- **Backend & APIs** : Express, PHP hautes performances, Python web
+- **Optimisation BDD** : MySQL, MongoDB, PostgreSQL
+- **Build tools** : Webpack, PostCSS, architecture scalable
 
 ---
 
-## 🤝 I’m Open To Collaborate On
+## 💻 Projets Notables
 
-- Innovative **full-stack web applications**
-- **Open-source UI libraries & design systems**
-- **Creative coding or game dev experiments**
+### 🎯 [Industrial Performance System – TRS Tracker](#)
+> Suivi TRS, écarts de production, KPI – Node.js, MySQL  
+### 🍽️ [Système de gestion de cantine scolaire](#)
+> Commande & paiement mobile – Vue.js, MongoDB, APIs MTN/Orange/Wave  
+### 🛒 [Plateforme e-commerce](#)
+> React.js, Tailwind CSS, Node.js – Authentification, panier, commandes  
+### 🎮 [Jeux Web](#)
+> Jeux de mots cachés, dames – HTML/CSS/JS avec animations  
+### 📊 [Dashboard Admin Personnalisé](#)
+> Interface de gestion, notifications, stats – Vue.js & Tailwind CSS
 
 ---
 
-## 📫 Let’s Connect
+## 🤝 Envie de collaborer ?
 
-- 📧 Email: **keifrejuste26@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/princekei](https://www.linkedin.com/in/princekei)
+- Projets full-stack ambitieux  
+- UI libraries open-source  
+- Jeux web ou expériences interactives  
+- Intégration de solutions de paiement
+
+---
+
+## 📫 Me contacter
+
+- 📧 **Email** : keifrejuste26@gmail.com  
+- 💼 **LinkedIn** : [linkedin.com/in/princekei](https://www.linkedin.com/in/princekei/)
+
+---
+
+## 📊 Stats GitHub
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Frejuste26&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frejuste26&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frejuste26&show_icons=true&theme=radical)
 
 ---
 
 ## ⚡ Fun Fact
 
-> I don’t just code — I compose experiences.  
-From pixel-perfect UIs to backend orchestration, I bring visions to life, one commit at a time.  
-Oh, and I love animating things — because static is boring. 😉
+> "Je code avec le cœur, je design avec l’âme et je déploie avec l’espoir d’un monde plus fluide."  
+> Chaque ligne que j’écris est un pas vers l’avenir.
 
 ---
+
