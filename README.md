@@ -4,17 +4,7 @@
 
 I’m a **passionate Web Developer** with a soul wired for creation. Whether it’s a robust **Backend API**, an immersive **frontend interface**, or an elegant **full-stack system**, I thrive where logic meets artistry.
 
-💻 My main tech stack:
-- **Node.js**, **Express**, **MySQL**, **MongoDB**
-- **Tailwind CSS**, **DaisyUI**, **Vue.js**, **React**
-- Plus a solid foundation in **PHP** and **Python** (certified by W3Schools)
-
-I’ve built solutions ranging from **industrial performance dashboards** to **canteen management systems** and **e-commerce platforms** — always striving for performance, clarity, and seamless user experiences.
-
----
-
-## 🧰 Tech Toolbox
-
+## 💻 My main tech stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
