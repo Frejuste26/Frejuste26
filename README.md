@@ -241,7 +241,7 @@ const currentLearning = {
 - 🌍 Solutions SaaS scalables
 
 ### 🎯 **Recherche active :**
-- **Poste :** Senior Full-Stack Developer / Tech Lead
+- **Poste :** Full-Stack Developer / Backend Developer 
 - **Type :** Remote, Hybride ou Sur-site
 - **Secteurs :** FinTech, EdTech, E-commerce, SaaS
 - **Mission :** Projets à fort impact avec équipes agiles
