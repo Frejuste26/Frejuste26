@@ -36,7 +36,7 @@
 ```javascript
 const keiProfile = {
   role: "Full-Stack Architect",
-  experience: "5+ years",
+  experience: "2+ years",
   specialties: [
     "Performance Optimization",
     "Scalable Architecture", 
